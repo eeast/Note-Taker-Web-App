@@ -5,7 +5,8 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Features](#features)
+- [Featues](#features)
+- [Deployed App](#deployment)
 - [Future Development](#future-development)
 - [License](#license)
 
@@ -19,6 +20,16 @@ This web app was made to provide a place for taking notes and saving things for 
 - Review saved notes by clicking on titles
 - Delete old notes by clicking the delete icon
 - Persistence through closing and reload
+
+## Deployment
+
+This web app is currently deployed at [https://note-taker-web-app.herokuapp.com/](https://note-taker-web-app.herokuapp.com/)
+
+![Landing Page](./images/Ch11-NoteTaker_00.png)
+
+![New Note](./images/Ch11-NoteTaker_01.png)
+
+![Example Note](./images/Ch11-NoteTaker_02.png)
 
 ## Future Development
 
